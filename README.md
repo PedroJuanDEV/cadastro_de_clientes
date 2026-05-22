@@ -1,4 +1,4 @@
-# 🐉 Dragon Ball API - CRUD Completo com .NET 9 & EF Core
+# API - CRUD Completo com .NET 9 & EF Core
 
 Esta é uma Web API de alto desempenho desenvolvida em **C# .NET 9** para o gerenciamento de personagens do universo Dragon Ball. O projeto utiliza as últimas atualizações do ecossistema .NET, focando em performance, código limpo e persistência de dados relacional.
 
